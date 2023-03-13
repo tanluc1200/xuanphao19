@@ -1,14 +1,14 @@
-##  Welcome to GitHub Xuân Pháo! `#0969DA`
+##  **_Welcome to GitHub Xuân Pháo!_**
 
 
-**xuanphao19/xuanphao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xuanphao19/xuanphao19** is a ✨ _special_ ✨
 
-Here are some ideas to get you started:
-| Head | Head | Head |
+| Nguyễn Thanh Hòa | H | a |
 | --- | --- | --- |
-| ![DaiCa](https://user-images.githubusercontent.com/83102917/224762789-b8ded563-bcf5-4d1c-b0f4-dc3300b00cd3.png) | Data | Data |
-| Data | Data | Data |
-- 🔭 I’m currently working tư do     
+| ![DaiCa](https://user-images.githubusercontent.com/83102917/224762789-b8ded563-bcf5-4d1c-b0f4-dc3300b00cd3.png) | | |
+| | | |
+ |  | | |
+- 🔭 I’m currently working tư d     
 - 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
