@@ -19,7 +19,7 @@
 					margin: 0;
 					width: 100%;
 					height: 350px;
-    					color: violet;
+    					color: blue;
 				 border-radius:16px;
           background-color:#999;
           position: relative;
