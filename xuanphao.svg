@@ -20,6 +20,8 @@
 					width: 100%;
 					height: 750px;
     					color: violet;
+				 border-radius:16px;
+          background-color:#999;
           position: relative;
 				}
         .earth {
