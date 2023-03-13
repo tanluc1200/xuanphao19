@@ -1,6 +1,6 @@
 ### Hi there 👋
+![Dai_Nhan1 (1)](https://user-images.githubusercontent.com/83102917/224761672-4bc3595d-1a10-49dc-bc69-e8ee9b9c498d.png)
 
-<!--
 **xuanphao19/xuanphao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
