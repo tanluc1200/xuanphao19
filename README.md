@@ -1,4 +1,4 @@
-##  Welcome to GitHub Xuân Pháo!
+##  Welcome to GitHub Xuân Pháo! `#0969DA`
 
 
 **xuanphao19/xuanphao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
