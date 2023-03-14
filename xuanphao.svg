@@ -57,7 +57,7 @@
 				.skills {
           display: inline-flex;
           margin: 30px 0 0 100px;
-          gap: 7px;
+          gap: 16px;
         }
         .skills_icon>img {
           width: 80px;
@@ -66,9 +66,7 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
-	.skills_icon {
-         margin-right: 25px;
-        }
+	
 
 			</style>
 
