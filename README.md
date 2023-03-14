@@ -6,6 +6,7 @@
 
 
 
+
 <a href="https://www.youtube.com/channel/UCxvQ4j_oWcUrUkGbHWs4dLw" target="_blank">
- <img src="Vecter.svg" alt="Vecter" />
+ <img src="https://user-images.githubusercontent.com/83102917/225055660-5705930f-50cb-43db-87ad-40a3bbfd10e4.svg" alt="Vecter" />
 </a>
